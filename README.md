@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MattisRinke
-- 👀 I’m interested in Programming, IT, Handball, Fire Departments and Paramedic-Organizations.
+- 👀 I’m interested in Programming, IT, Handball and Paramedic-Organizations.
 - 🌱 I’m currently studying CS
-- 📫 How to reach me: mattis.rinke@dmergency.de
+- 📫 How to reach me: mattis@rinke.dk
 
 <!---
 MattisRinke/MattisRinke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
